@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 32" width="120" height="32">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0%" stop-color="#10B981"></stop>
+      <stop offset="100%" stop-color="#047857"></stop>
+    </linearGradient>
+  </defs>
+  <rect x="0.5" y="0.5" width="119" height="31" rx="15.5" fill="white" stroke="#10B981" stroke-opacity="0.35"></rect>
+  <g transform="translate(10 8)">
+    <path d="M8 0 L9.6 5.4 L15 7 L9.6 8.6 L8 14 L6.4 8.6 L1 7 L6.4 5.4 Z" fill="url(#g)"></path>
+  </g>
+  <text x="34" y="20" font-family="Geist, Inter, system-ui, sans-serif" font-weight="600" font-size="12" fill="#047857" letter-spacing="0.04em">AI VERIFIED</text>
+</svg>
